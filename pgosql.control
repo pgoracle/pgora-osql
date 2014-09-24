@@ -1,0 +1,6 @@
+# pgosql extension
+comment = 'PL/SQL Compatibility'
+default_version = '9.4'
+module_pathname = '$libdir/pgosql'
+relocatable = true
+superuser = true
