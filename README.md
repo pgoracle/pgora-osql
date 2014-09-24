@@ -1,4 +1,6 @@
 pgora-osql
 ==========
 
-The PGOSQL Procedural Language features Oracle PLSQL Compatibility
+Visit us at http://pgora.com
+
+The PGOSQL Procedural Language features Oracle PL/SQL Compatibility
